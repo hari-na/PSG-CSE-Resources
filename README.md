@@ -1,1 +1,3 @@
-# psg-sem-3
+# PSG College of Technology
+# CSE Department '24
+# Notes
